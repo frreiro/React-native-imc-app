@@ -44,6 +44,12 @@ const styles = StyleSheet.create({
 	formButtonText: {
 		fontSize: 20,
 		color: '#fff'
+	},
+	errorMessage: {
+		fontSize: 12,
+		color: "red",
+		fontWeight: 'bold',
+		paddingLeft: 20
 	}
 })
 
